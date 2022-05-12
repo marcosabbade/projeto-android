@@ -63,9 +63,9 @@ header > p {
     color: aliceblue;
     font-size: 20px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.308);
-    margin-top: 10px;
     max-width: 500px;
     text-align: center;
+    padding-bottom: 50px;
 }
 
 main {
